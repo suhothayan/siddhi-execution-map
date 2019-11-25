@@ -25,6 +25,7 @@ limitations under the License.
             <class name="io.siddhi.extension.execution.map.PutFunctionExtensionTestCase"/>
             <class name="io.siddhi.extension.execution.map.PutAllFunctionExtensionTestCase"/>
             <class name="io.siddhi.extension.execution.map.RemoveFunctionExtensionTestCase"/>
+            <class name="io.siddhi.extension.execution.map.SizeFunctionExtensionTestCase"/>
             <class name="io.siddhi.extension.execution.map.ToJSONFunctionExtensionTestCase"/>
             <class name="io.siddhi.extension.execution.map.ToXMLFunctionExtensionTestCase"/>
         </classes>
